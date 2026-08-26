@@ -10,7 +10,7 @@ export interface ExperienceEntry {
 
 export const experience: ExperienceEntry[] = [
   {
-    company: "Flying Feather IT Pvt. Ltd.",
+    company: "RAKSP Application Pvt. Ltd.",
     role: "Frontend Developer",
     period: "2 Years \u2014 Present",
     status: "current",
@@ -30,7 +30,7 @@ export const experience: ExperienceEntry[] = [
     projects: [
       { name: "GrowEd", slug: "growed" },
       { name: "Growizz", slug: "growizz" },
-      { name: "Sweta Dance", slug: "sweta-dance" },
+      { name: "Naachle", slug: "naachle" },
     ],
   },
 ];

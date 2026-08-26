@@ -7,7 +7,7 @@ import { Separator } from "@/components/ui/separator";
 export const metadata: Metadata = {
   title: "Experience",
   description:
-    "Professional frontend development experience at Flying Feather IT Pvt. Ltd. across dashboards, billing workflows, and production web applications.",
+    "Professional frontend development experience at RAKSP Application Pvt. Ltd. across dashboards, billing workflows, and production web applications.",
 };
 
 export default function ExperiencePage() {

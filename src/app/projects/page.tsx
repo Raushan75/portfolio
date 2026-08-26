@@ -6,14 +6,16 @@ import { FeaturedProjectCard } from "@/components/projects/featured-project-card
 export const metadata: Metadata = {
   title: "Projects",
   description:
-    "Frontend projects by Raushan Kumar, including GrowEd, Growizz, and Sweta Dance \u2014 dashboards, billing workflows, ticket management, and marketing websites.",
+    "Frontend projects by Raushan Kumar, including GrowEd, Growizz, and Naachle Dance \u2014 dashboards, billing workflows, ticket management, and marketing websites.",
 };
 
 export default function ProjectsPage() {
   return (
     <div className="container py-20 sm:py-28">
       <div className="max-w-2xl">
-        <p className="font-mono text-xs uppercase tracking-wider text-accent">Projects</p>
+        <p className="font-mono text-xs uppercase tracking-wider text-accent">
+          Projects
+        </p>
         <h1 className="mt-3 text-balance font-display text-4xl font-medium tracking-tight sm:text-5xl">
           Dashboards, billing workflows, and marketing sites.
         </h1>

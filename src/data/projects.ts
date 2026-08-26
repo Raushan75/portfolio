@@ -46,10 +46,10 @@ export const projects: Project[] = [
     oneLiner:
       "An education platform offering mentor-led, personalized learning \u2014 with role-based dashboards and billing workflows behind the scenes.",
     overview:
-      "GrowEd is an education platform connecting students with mentors for personalized, subject-led learning, alongside a public site covering its courses, careers, and blog content. Behind the public experience sits a set of role-based dashboards \u2014 for teachers, students, and admins \u2014 and internal business workflows for session billing. I worked on the frontend as part of the team at Flying Feather IT Pvt. Ltd.; this case study covers my specific contributions, not the product as a whole.",
+      "GrowEd is an education platform connecting students with mentors for personalized, subject-led learning, alongside a public site covering its courses, careers, and blog content. Behind the public experience sits a set of role-based dashboards \u2014 for teachers, students, and admins \u2014 and internal business workflows for session billing. I worked on the frontend as part of the team at RAKSP Application Pvt. Ltd.; this case study covers my specific contributions, not the product as a whole.",
     myRole:
       "Worked on the frontend across the public website and all three dashboards, with complete ownership of the Teacher Dashboard frontend, and worked on the invoice generation and automated billing interfaces.",
-    company: "Flying Feather IT Pvt. Ltd.",
+    company: "RAKSP Application Pvt. Ltd.",
     experienceLabel: "2 Years",
     technologies: [
       "React",
@@ -175,7 +175,7 @@ export const projects: Project[] = [
       "Growizz combines a content-driven marketing website with a ticket management feature for tracking tasks \u2014 similar in spirit to tools like ClickUp. It demonstrates application-level frontend work beyond static pages: state, filtering, and workflow UI.",
     myRole:
       "Built the marketing website and worked on the ticket management feature, including the interface for listing, filtering, and managing tickets through their workflow.",
-    company: "Flying Feather IT Pvt. Ltd.",
+    company: "RAKSP Application Pvt. Ltd.",
     experienceLabel: "2 Years",
     technologies: [
       "React",
@@ -223,17 +223,17 @@ export const projects: Project[] = [
       "The ticket management feature demonstrates frontend experience beyond marketing sites \u2014 building interactive, stateful, workflow-driven interfaces.",
   },
   {
-    slug: "sweta-dance",
-    title: "Sweta Dance",
+    slug: "naachle",
+    title: "Naachle",
     category: "Marketing Website",
     featured: false,
     oneLiner:
       "A complete, polished marketing website built from the ground up.",
     overview:
-      "Sweta Dance is a content and marketing website built entirely on the frontend, covering the full public site experience from landing page through blog.",
+      "Naachle Dance is a content and marketing website built entirely on the frontend, covering the full public site experience from landing page through blog.",
     myRole:
       "Worked on the complete frontend and public website experience \u2014 landing, About Us, contact, and blog pages.",
-    company: "Flying Feather IT Pvt. Ltd.",
+    company: "RAKSP Application Pvt. Ltd.",
     experienceLabel: "2 Years",
     technologies: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
     contributions: [
@@ -267,7 +267,7 @@ export const projects: Project[] = [
       {
         heading: "Complete Frontend Ownership",
         body: [
-          "I owned the complete frontend and public website experience for Sweta Dance, from the landing page through the blog, rather than contributing to isolated pages.",
+          "I owned the complete frontend and public website experience for Naachle Dance, from the landing page through the blog, rather than contributing to isolated pages.",
           "The focus was on a polished, cohesive content and marketing presentation across the full site.",
         ],
       },
